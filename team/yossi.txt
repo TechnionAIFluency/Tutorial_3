@@ -1,0 +1,3 @@
+name: Yossi
+start: 80
+minutes: 9.40

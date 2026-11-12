@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "hooks": {
+    "preToolUse": [
+      {
+        "type": "command",
+        "bash": "python3 .github/hooks/protect_tests.py",
+        "timeoutSec": 10
+      }
+    ]
+  }
+}

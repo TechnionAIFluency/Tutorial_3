@@ -1,0 +1,3 @@
+name: Shon
+start: 90
+minutes: 12.93
